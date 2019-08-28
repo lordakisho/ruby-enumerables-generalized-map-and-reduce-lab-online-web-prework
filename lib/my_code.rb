@@ -14,5 +14,5 @@ if sp
   num1 = sp
   i = 0 
 else 
-  num1 + source_array[i=0]
+  num1 + source_array[0]
 end
