@@ -11,7 +11,7 @@ end
 
 def reduce(source_array, sp = nil)
 if sp
-  num1 = sp
+  sum = sp
   i = 0 
 else 
   num1 + source_array[0]
