@@ -18,7 +18,7 @@ else
   i = 1 
 end
 
-while i < array.length
+while i < source_array.length
  sum = yield(sum, array[i])
  i += 1 
  end
