@@ -10,11 +10,5 @@ end
 
 
 def reduce(source_array, sp = nil)
-total = starting_point
-counter = 0 
-while counter < source_array.size do
-  yield(total += source_array[counter])
-  counter +=1 
-end
-total 
+if 
 end
