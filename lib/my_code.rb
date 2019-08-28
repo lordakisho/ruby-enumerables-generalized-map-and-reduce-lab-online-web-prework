@@ -19,4 +19,4 @@ else
 end
 
 while - < array.length
- sum = 
+ sum = y
