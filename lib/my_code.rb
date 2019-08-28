@@ -20,3 +20,4 @@ end
 
 while - < array.length
  sum = yield(sum, array [i])
+end
