@@ -9,7 +9,7 @@ def map(array)
 end
 
 
-def reduce(source_array, starting_point = 0)
+def reduce(source_array, sp = 0)
 total = starting_point
 counter = 0 
 while counter < source_array.size do
