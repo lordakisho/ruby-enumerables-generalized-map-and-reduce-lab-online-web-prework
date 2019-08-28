@@ -10,7 +10,7 @@ end
 
 
 def reduce(array, sv=nil)
-if sp
+  if sv
   sum = sp
   i = 0 
 else 
