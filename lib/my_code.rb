@@ -12,5 +12,5 @@ end
 def reduce(source_array, sp = nil)
 if sp
   num1 = sp
-  
+  i = 0
 end
