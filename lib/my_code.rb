@@ -11,5 +11,6 @@ end
 
 def reduce(source_array, sp = nil)
 if sp
+  num1 = sp
   
 end
